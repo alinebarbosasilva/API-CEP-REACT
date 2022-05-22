@@ -62,8 +62,7 @@ export default function App() {
       <div className='dados-form'>
           <label>Estado</label>
           <input type="text"  value={estado} disabled/>
-      </div>
-     
+      </div>    
     </div>
  </div>
   );
